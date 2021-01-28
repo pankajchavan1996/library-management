@@ -1,0 +1,13 @@
+*.o
+*.obj
+*.out
+*.exe
+private/
+.metadata/
+bin/
+target/
+*.db
+*.class
+*.classpath
+*.project
+*.prefs
